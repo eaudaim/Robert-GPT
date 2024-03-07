@@ -1,13 +1,29 @@
+![English below](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "English below") English below
 # Robert-GPT
-Un assistant vocal francophone basé sur GPT 3.5 Turbo
 
-1) Exécuter "installation.py" 
-2) Ouvrir "robert.py" dans un éditeur de texte et ajoutez votre clé API OpenAI
-3) Exécuter "robert.py"
+Robert-GPT est un assistant vocal francophone qui sent la picole et les cacahuètes,  basé sur GPT 3.5 Turbo.
 
-Pour que Robert comprenne que c'est à lui que vous parlez, le nom "Robert" doit être présent dans la phrase. 
-Robert écoute pendant 5 secondes et recommence un cycle si rien n'a été capté.
-Il se peut que Robert reste bloqué sur "J'écoute...", il faudra alors couper le micro à la fin de votre phrase pour qu'il la prenne en compte, le bruit ambiant étant parfois un problème pour détecter que l'humain a terminé de parler.
+
+
+## Comment ça marche ?
+
+1. **Installation :** Exécutez le script `installation.py` pour installer les dépendances nécessaires. Assurez-vous d'avoir les privilèges nécessaires pour installer des packages sur votre système.
+
+2. **Configuration :** Ouvrez `robert.py` et ajoutez votre clé API OpenAI à la ligne 10.
+   
+3. **Lancement :** Exécutez le script `robert.py`. Dès que vous prononcez le nom "Robert", il sera là pour répondre à vos questions et vous faire la causette comme au PMU
+
+
+
+## Astuces d'utilisation
+
+- Pour parler à Robert, n'oubliez pas de prononcer son nom "Robert" dans la phrase. Par exemple, "Hey Robert, quelle est la météo aujourd'hui ?"
+
+-Il se peut que Robert reste bloqué sur "J'écoute...", il faudra alors couper le micro à la fin de votre phrase pour qu'il la prenne en compte, le bruit ambiant étant parfois un problème pour détecter que votre phrase est terminée.
+
+
+
+## Compatibilité 
 
 Le script d'installation ("installation.py") fonctionne uniquement sur Linux car il utilise APT. Pour une installation sous macOS ou Windows, vous devrez chercher et installer les dépendances vous-même, si toutefois elles existent...
 En voici la liste : 
@@ -20,22 +36,38 @@ Celles pour python sont dans le dossier "requirements.txt" ainsi que leurs versi
 
 
 
-Dérivé d'un projet d'[Arijit1080](https://github.com/Arijit1080) 
+## Crédits
+
+Ce projet est inspiré d'un projet créé par [Arijit1080](https://github.com/Arijit1080)
 
 
-
-
-
+----
+  
 # Robert-GPT
-A French-speaking voice assistant based on GPT 3.5 Turbo
 
-1) Run "installation.py"
-2) Open "robert.py" in a text editor and add your OpenAI API key
-3) Run "robert.py"
+Robert-GPT is a French-speaking voice assistant that smells of booze and peanuts, based on GPT 3.5 Turbo.
 
-For Robert to understand that you are addressing him, the name "Robert" must be present in the sentence.
-Robert listens for 5 seconds and restarts a cycle if nothing is detected.
-Robert may get stuck on "Listening...", so you may need to mute the microphone at the end of your sentence for him to acknowledge it, as ambient noise can sometimes be a problem for detecting when a human has finished speaking.
+
+
+## How it works?
+
+1. **Installation:** Run the `installation.py` script to install the necessary dependencies. Make sure you have the necessary privileges to install packages on your system.
+
+2. **Configuration:** Open `robert.py` and add your OpenAI API key on line 10.
+
+3. **Launch:** Run the `robert.py` script. As soon as you say the name "Robert", he'll be there to answer your questions and chat with you like at the local pub.
+
+
+
+## Usage Tips
+
+- To talk to Robert, don't forget to say his name "Robert" in the sentence. For example, "Hey Robert, what's the weather like today?"
+
+- Robert may get stuck on "Listening...", so you may need to mute the microphone at the end of your sentence for him to acknowledge it, as ambient noise can sometimes be a problem for detecting when your sentence is finished.
+
+
+
+## Compatibility
 
 The installation script ("installation.py") only works on Linux because it uses APT. For installation on macOS or Windows, you will need to search for and install the dependencies yourself, if they exist...
 Here is the list:
@@ -44,10 +76,16 @@ Here is the list:
 3) espeak
 4) flac
 
-The dependencies for Python are in the "requirements.txt" file along with their versions
+The dependencies for Python are in the "requirements.txt" folder along with their versions.
+
+
+
+## Credits
+
+This project is inspired by a project created by [Arijit1080](https://github.com/Arijit1080).
 
 
 
 
 
-Derived from a project by [Arijit1080](https://github.com/Arijit1080) 
+
