@@ -16,7 +16,11 @@ En voici la liste :
 3) espeak
 4) flac
 
-Celles pour python sont dans le dossier "requirements.txt" ainsi que leurs versions 
+Celles pour python sont dans le dossier "requirements.txt" ainsi que leurs versions.
+
+
+
+Dérivé d'un projet d'[Arijit1080](https://github.com/Arijit1080) 
 
 
 
@@ -41,3 +45,9 @@ Here is the list:
 4) flac
 
 The dependencies for Python are in the "requirements.txt" file along with their versions
+
+
+
+
+
+Derived from a project by [Arijit1080](https://github.com/Arijit1080) 
