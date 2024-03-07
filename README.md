@@ -19,7 +19,7 @@ Robert-GPT est un assistant vocal francophone qui sent la picole et les cacahuè
 
 - Pour parler à Robert, n'oubliez pas de prononcer son nom "Robert" dans la phrase. Par exemple, "Hey Robert, quelle est la météo aujourd'hui ?"
 
--Il se peut que Robert reste bloqué sur "J'écoute...", il faudra alors couper le micro à la fin de votre phrase pour qu'il la prenne en compte, le bruit ambiant étant parfois un problème pour détecter que votre phrase est terminée.
+- Il se peut que Robert reste bloqué sur "J'écoute..." il faudra alors couper le micro à la fin de votre phrase pour qu'il la prenne en compte, le bruit ambiant étant parfois un problème pour détecter que votre phrase est terminée.
 
 
 
