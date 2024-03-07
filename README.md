@@ -1,7 +1,7 @@
 ![English below](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "English below") English below
 # Robert-GPT
 
-Robert-GPT est un assistant vocal francophone qui sent la picole et les cacahuètes,  basé sur GPT 3.5 Turbo.
+Robert-GPT est un assistant vocal francophone qui sent la picole et les cacahuètes, basé sur GPT 3.5 Turbo et crée à la base pour un Raspberry-Pi
 
 
 
@@ -45,7 +45,7 @@ Ce projet est inspiré d'un projet créé par [Arijit1080](https://github.com/Ar
   
 # Robert-GPT
 
-Robert-GPT is a French-speaking voice assistant that smells of booze and peanuts, based on GPT 3.5 Turbo.
+Robert-GPT is a French-speaking voice assistant that smells of booze and peanuts, based on GPT 3.5 Turbo and created for a Raspberry-pi.
 
 
 
