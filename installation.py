@@ -9,7 +9,7 @@ def afficher_avec_delai(texte, delai):
 # Installer les packages apt
 afficher_avec_delai("\n Installation des packages apt : \n", 1)
 
-packages = ["portaudio19-dev", "python3-pyaudio", "flac", "espeak"]
+packages = ["portaudio19-dev", "python3-pyaudio", "flac", "espeak", "pip"]
 for package_name in packages:
     subprocess.run(["sudo", "apt", "install", "-y", package_name], check=True)
 
