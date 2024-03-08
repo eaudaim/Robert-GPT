@@ -45,7 +45,7 @@ Ce projet est inspiré d'un projet créé par [Arijit1080](https://github.com/Ar
   
 # Robert-GPT
 
-Robert-GPT is a French-speaking voice assistant that smells of booze and peanuts, based on GPT 3.5 Turbo and created for a Raspberry-pi.
+Robert-GPT is a French-speaking voice assistant that smells beer and peanuts, based on GPT 3.5 Turbo and created for a Raspberry-pi.
 
 
 
@@ -63,7 +63,7 @@ Robert-GPT is a French-speaking voice assistant that smells of booze and peanuts
 
 - To talk to Robert, don't forget to say his name "Robert" in the sentence. For example, "Hey Robert, what's the weather like today?"
 
-- Robert may get stuck on "Listening...", so you may need to mute the microphone at the end of your sentence for him to acknowledge it, as ambient noise can sometimes be a problem for detecting when your sentence is finished.
+- Robert may get stuck on "j'écoute...", so you may need to mute the microphone at the end of your sentence for him to acknowledge it, as ambient noise can sometimes be a problem for detecting when your sentence is finished.
 
 
 
